@@ -9,8 +9,7 @@ This is one of my advance JavaScript projects as a part of the projects of the b
 I was extremely excited when working on this amazing “Bankist Website” that created with advance JS techniques.
 
 It includes very advanced topics like 
-DOM API,
-.addEventListener(), .removeEventListener(),.querySelector(), .createElement(), .getElementById(),
+DOM API, .addEventListener(), .removeEventListener(), .querySelector(), .createElement(), .getElementById(),
 events, event handlers, event propagation, event delegation, building tabbed component, lazy loading images,
 pop-up window, slider, smooth scrolling animation ... 
 
